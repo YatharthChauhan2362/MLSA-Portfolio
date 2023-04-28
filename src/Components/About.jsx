@@ -33,11 +33,11 @@ const description =
  */
 const skillsList = [
   "Microsoft Azure",
+  "DevOps",
   "UI/UX Design",
   "Graphic Design",
-  "Web Design and Development",
+  "Web Development",
   "Digital Marketing",
-  "Blogging",
 ];
 
 /**
@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am Passionate about programming and design | Focus on productivity.| Believe in help to learn together and grow together";
 
 const About = () => {
   return (

@@ -34,7 +34,7 @@ const siteProps = {
   twitter: "https://twitter.com/Yatharth_YC",
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#163c45";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
