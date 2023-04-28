@@ -26,13 +26,12 @@ import "./styles.css";
 const siteProps = {
   name: "Yatharth Chauhan",
   title: "Cloud Engineer",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  email: "yatharthchauhan2024@gmail.com",
+  gitHub: "https://github.com/YatharthChauhan2362",
+  instagram: "https://www.instagram.com/yatharth.chauhan_yc/",
+  linkedIn: "https://www.linkedin.com/in/yatharth-chauhan-729674202/",
+  medium: "https://medium.com/@YatharthChauhan",
+  twitter: "https://twitter.com/Yatharth_YC",
 };
 
 const primaryColor = "#4E567E";
